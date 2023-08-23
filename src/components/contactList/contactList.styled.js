@@ -21,7 +21,7 @@ export const ContactNameStyled = styled.li`
 `;
 
 export const ButtonDeleteStyled = styled.button`
-  background-color: #007bff;
+  background-color: #ff006f;
   color: white;
   border: none;
   border-radius: 4px;

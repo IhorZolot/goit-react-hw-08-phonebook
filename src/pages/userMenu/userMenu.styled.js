@@ -19,7 +19,9 @@ export const LogoutButtonStyled = styled.button`
   border: none;
   padding: 5px 10px;
   border-radius: 5px;
+  transition: background-color 0.3s;
   cursor: pointer;
+
   &:hover {
     color: #160909;
     background-color: #ffffff;
@@ -42,6 +44,7 @@ export const StyledLink = styled(Link)`
   padding: 5px 10px;
   color: #5175d0;
   font-weight: bold;
+  transition: background-color 0.3s;
   &:hover {
     color: #160909;
     background-color: #5175d0;
