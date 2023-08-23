@@ -6,6 +6,7 @@ export const LoginContainerStyled = styled.div`
   border-radius: 5px;
   max-width: 400px;
   margin: 0 auto;
+  margin-top: 100px;
   background-color: white;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 `;
