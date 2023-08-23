@@ -6,8 +6,8 @@ import {
   NavLinkButton,
   SideBarStyled,
   StyledLink,
-} from '../pages/navBar.styled';
-import { LogoutButtonStyled } from '../pages/userMenu/userMenu.styled';
+} from './navBar.styled';
+import { LogoutButtonStyled } from '../../pages/userMenu/userMenu.styled';
 import { logoutThunk } from 'redux/auth/operations';
 import { toast } from 'react-toastify';
 

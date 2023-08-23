@@ -2,8 +2,8 @@ import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
 
 export const SideBarStyled = styled.nav`
-  background-color: #5175d0;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0.1, 0.5);
+  background: linear-gradient(to right, #7bb6cb, #319dcc);
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.5);
   display: flex;
   gap: 25px;
   top: 0;

@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const FormContainerStyled = styled.div`
+  background: linear-gradient(to right, #4b79a1, #283e51);
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.5);
   border: 1px solid #ccc;
   padding: 20px;
   border-radius: 5px;
